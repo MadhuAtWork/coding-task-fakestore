@@ -1,0 +1,260 @@
+.App {
+  width:100%;
+  height:700px;
+}
+.container{
+width:100%;
+height:700px;
+/* background-color: aliceblue; */
+}
+.main{
+  width:100%;
+  height:120px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+}
+.menu{
+  width:100%;
+  height:500px;
+  background-color:lightgray;
+  
+}
+.navbar{
+  width:100%;
+  height: 80px;
+  background-color:lightgray;
+  display: flex;
+  justify-content: space-around;
+}
+.logo{
+  font-size:46px;
+  padding-left: 100px;
+  color:red;
+}
+.search{
+  width:400px;
+  height: 60px;
+  border-radius: 25px;
+  margin-top: 10px;
+}
+.search button{
+  width:400px;
+  height: 60px;
+  border-radius: 25px;
+  display: flex;
+align-items: center;
+justify-content:right;
+border: 0;
+cursor: pointer;
+}
+.singup{
+  width:100px;
+  height:60px ;
+  border-radius: 25px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.singup button{
+  width:100px;
+  height:50px ;
+  border-radius: 25px;
+  font-size: 20px;
+  color: red;
+  background-color:yellowgreen;
+  border: 0;
+  cursor: pointer;
+}
+.singup button:hover{
+  background-color: lightskyblue;
+  color: black;
+}
+.holder{
+  width:100%;
+  height:500px;
+  display: flex;
+  justify-content: space-around;
+}
+ .icons1{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+}
+
+.icons2{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  border-radius:8px;
+  text-align: center;
+
+
+
+} 
+ .icons3{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+
+}
+.icons4{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+}
+.icons5{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+
+}
+.icons6{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+
+}
+.icons7{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+
+}
+.icons8{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+
+} 
+ .icons9,icon10,icon1,icon2,icon4,icon5,icon6,icon7,icon8,icon11,icon12{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+} 
+
+
+.icons10{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+
+}
+ .icons11{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+}
+.icons12{
+  width: 100px;
+  height:70px;
+  margin-top: 10px;
+  border-radius:8px;
+  text-align: center;
+
+} 
+.icons1:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons2:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons3:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons4:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons5:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons6:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons7:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons8:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons9:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons10:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons11:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+.icons12:hover{
+  cursor: pointer;
+  background-color: lightgreen;
+}
+
+
+
+
+
+
+.holderapi{
+  width:100%;
+  height:500px;
+  display: flex;
+  overflow-x: scroll;
+}
+.contentapi{
+  width:300px;
+  height:500px;
+  background-color:whitesmoke;
+  margin: 20px;
+
+
+}
+
+.contentapi img{
+  width:300px;
+  height:250px;
+  /* background-color: blanchedalmond; */
+}
+
+
